@@ -1,8 +1,8 @@
-# Aegis Core Zero (Akashic Hypervisor)
+# Akashic Hypervisor
 
 **A Formally Verified, Type-1 Hypervisor for the Post-Linux Era.**
 
-Aegis Core Zero is a bare-metal microvisor that enforces strict mathematical isolation between guests using a "Vertical Kernel" architecture. It combines the raw performance and hardware control of **Zig** with the high-assurance formal verification of **Ada/SPARK**.
+Akashic Hypervisor is a bare-metal microvisor that enforces strict mathematical isolation between guests using a "Vertical Kernel" architecture. It combines the raw performance and hardware control of **Zig** with the high-assurance formal verification of **Ada/SPARK**.
 
 ## 🏗 Architecture
 
