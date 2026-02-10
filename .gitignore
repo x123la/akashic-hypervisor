@@ -1,0 +1,12 @@
+zig-cache/
+zig-out/
+.zig-cache/
+*.o
+*.bin
+*.elf
+serial.log
+guest.bin
+trampoline.o
+vm_runner.o
+boot.o
+kernel_obj.o
